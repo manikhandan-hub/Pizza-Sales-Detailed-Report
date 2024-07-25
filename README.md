@@ -35,8 +35,14 @@
  - We have four different categories among those classic type pizza getting more Orders followed by three categories.
  - Sizes Of Pizzas are L,M,S,XL,XXL 
     L,M,S Sizes are playing important role because 90 Percentage of orders are L,M,S and xl,xxl are less 2 Percentage
- - we plotted a line chart for month wise orders perticularly in july month orders reached nearly 2000 and october we have very low orders
- - During weekend 
+ - We plotted a line chart for month wise orders perticularly in july month orders reached nearly 2000 and october we have very low orders
+ - During weekdays mainly friday and thurday sales is high but in sunday it's low orders.
+
+
+### Important Points to consider for growth.
+- There are 32 varieties of pizzas but there are 5 main varieties which made revenue around 25% of overall revenue.If we concentrate on these 5 varieties we can increase our sales as well as profit.
+- L,M,S these contribute 90% of sales and XL,XXLare very low orders.
+- In Categories We have very similar sales but CLASSIC,SUPREME orders are high.
 
 
 
