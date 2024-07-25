@@ -1,6 +1,6 @@
 # Pizza-Sales-Detailed-Report
 
- - This data analysis project aims to provide some short insights of PIZZA SALES company over past a year. By analyzing various aspects of the sales data.And identify Products which performs well and should implement new things so that can increase sales values.
+ - This data analysis project aims to provide some short insights of PIZZA SALES company with one year. By analyzing various aspects of the sales data.And identify Products which performs well and should implement new things so that can increase sales values.
 
 ## Data Sources
  - Downloaded-Kaggle.com
